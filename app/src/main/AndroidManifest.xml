@@ -18,9 +18,6 @@
             android:name=".View.ArtActivity"
             android:exported="false" />
         <activity
-            android:name=".recyclerView"
-            android:exported="false" />
-        <activity
             android:name=".View.MainActivity"
             android:exported="true">
             <intent-filter>
